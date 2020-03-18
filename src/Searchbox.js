@@ -13,6 +13,6 @@ const Searchbox = ({searchfield,searchchange}) => {
         </div>
     );
 
-}git 
+}
 
 export default Searchbox;
